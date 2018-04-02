@@ -7,3 +7,5 @@ My name is Gary Arthurs
 commit changes
 
 make a change
+
+Now we commit
